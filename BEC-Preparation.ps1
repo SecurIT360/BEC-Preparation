@@ -6,6 +6,9 @@
             - Mailbox Audit Logging
             - Microsoft & Azure Subscription and Service Plan Information
         for the purposes of preparing for Business Email Compromise investigations.
+        
+        This script was created to go along with a series of emails related to preparing for, preventing and responding to Business Email Compromise.
+        https://www.securit360.com/insights/business-email-compromise-prevention-and-mitigation/
     
     .NOTES     
         Name: BEC-Preparation.ps1
